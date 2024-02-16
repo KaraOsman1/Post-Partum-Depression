@@ -1,0 +1,48 @@
+/* style.css */
+
+/* Body styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('background.jpg'); /* Replace 'background.jpg' with your image path */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+/* Navigation styles */
+.navigation {
+    background-color: #333;
+    padding: 10px;
+    color: white;
+}
+
+/* Sidebar styles */
+.sidebar {
+    float: left;
+    width: 200px;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+/* Main Content styles */
+.content {
+    margin-left: 220px; /* Adjust for sidebar width */
+    padding: 20px;
+}
+
+/* Frame styles */
+.frame {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.frame h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,19 @@
+/* style.css */
+
+/* Navigation */
+.navigation {
+    margin-top: 20px; /* Adjust as needed */
+}
+
+/* Sidebar */
+.sidebar {
+    float: left;
+    width: 200px; /* Adjust width as needed */
+    margin-left: 20px; /* Adjust left margin as needed */
+}
+
+/* Content */
+.content {
+    margin-left: 240px; /* Adjust to accommodate sidebar width and margin */
+    margin-top: 20px; /* Adjust to accommodate navigation top margin */
+}
